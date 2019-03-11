@@ -1,6 +1,4 @@
 C:\Users\Roothery\Documents\JogoDePoker\src\App\bin\Debug\netcoreapp2.2\App.deps.json
-C:\Users\Roothery\Documents\JogoDePoker\src\App\bin\Debug\netcoreapp2.2\App.runtimeconfig.json
-C:\Users\Roothery\Documents\JogoDePoker\src\App\bin\Debug\netcoreapp2.2\App.runtimeconfig.dev.json
 C:\Users\Roothery\Documents\JogoDePoker\src\App\bin\Debug\netcoreapp2.2\App.dll
 C:\Users\Roothery\Documents\JogoDePoker\src\App\bin\Debug\netcoreapp2.2\App.pdb
 C:\Users\Roothery\Documents\JogoDePoker\src\App\obj\Debug\netcoreapp2.2\App.csprojAssemblyReference.cache
