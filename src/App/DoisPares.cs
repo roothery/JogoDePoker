@@ -7,9 +7,11 @@ namespace App
     public class DoisPares
     {
         public int[] MaoVencedora { get; set; }
+        public NivelDaJogada NivelDaJogada;
         public DoisPares(int[] jogadorUm, int[] jogadorDois)
         {
             MaoVencedora = ObterVencedor(jogadorUm, jogadorDois);
+            NivelDaJogada = NivelDaJogada.DoisPares;
         }
 
         private int[] ObterVencedor(int[] jogadorUm, int[] jogadorDois)
