@@ -7,3 +7,12 @@ C:\Users\Roothery\Documents\JogoDePoker\src\App\obj\Debug\netcoreapp2.2\App.Asse
 C:\Users\Roothery\Documents\JogoDePoker\src\App\obj\Debug\netcoreapp2.2\App.AssemblyInfo.cs
 C:\Users\Roothery\Documents\JogoDePoker\src\App\obj\Debug\netcoreapp2.2\App.dll
 C:\Users\Roothery\Documents\JogoDePoker\src\App\obj\Debug\netcoreapp2.2\App.pdb
+C:\Users\Roothery\Documents\Poker\JogoDePoker\src\App\bin\Debug\netcoreapp2.2\App.deps.json
+C:\Users\Roothery\Documents\Poker\JogoDePoker\src\App\bin\Debug\netcoreapp2.2\App.dll
+C:\Users\Roothery\Documents\Poker\JogoDePoker\src\App\bin\Debug\netcoreapp2.2\App.pdb
+C:\Users\Roothery\Documents\Poker\JogoDePoker\src\App\obj\Debug\netcoreapp2.2\App.csprojAssemblyReference.cache
+C:\Users\Roothery\Documents\Poker\JogoDePoker\src\App\obj\Debug\netcoreapp2.2\App.csproj.CoreCompileInputs.cache
+C:\Users\Roothery\Documents\Poker\JogoDePoker\src\App\obj\Debug\netcoreapp2.2\App.AssemblyInfoInputs.cache
+C:\Users\Roothery\Documents\Poker\JogoDePoker\src\App\obj\Debug\netcoreapp2.2\App.AssemblyInfo.cs
+C:\Users\Roothery\Documents\Poker\JogoDePoker\src\App\obj\Debug\netcoreapp2.2\App.dll
+C:\Users\Roothery\Documents\Poker\JogoDePoker\src\App\obj\Debug\netcoreapp2.2\App.pdb

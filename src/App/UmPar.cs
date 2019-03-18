@@ -3,9 +3,12 @@ namespace App
     public class UmPar
     {
         public int[] MaoVencedora { get; set; }
+
+        public NivelDaJogada NivelDaJogada;
         public UmPar(int[] jogadorUm, int[] jogadorDois)
         {
             MaoVencedora = ObterVencedor(jogadorUm, jogadorDois);
+            NivelDaJogada = NivelDaJogada.UmPar;
         }
 
         private int[] ObterVencedor(int[] jogadorUm, int[] jogadorDois)
